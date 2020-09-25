@@ -17,3 +17,4 @@ Should fit right in with your desktop.
 
 ![Browse](https://i.imgur.com/iFFSjNI.png)
 ![Playlist](https://i.imgur.com/h3IO161.png)
+![Alongside desktop theme](https://i.imgur.com/KNI5vzP.png)
