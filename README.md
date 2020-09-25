@@ -15,6 +15,5 @@ Should fit right in with your desktop.
 
 ## Screenshots
 
-![Browse](https://i.imgur.com/PCqjXT5.png)
-![Album](https://i.imgur.com/YmPJdin.png)
-![Playlist](https://i.imgur.com/nHZ7WKO.png)
+![Browse](https://i.imgur.com/iFFSjNI.png)
+![Playlist](https://i.imgur.com/h3IO161.png)
