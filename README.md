@@ -8,7 +8,7 @@ Should fit right in with your desktop.
 
 ## Installation
 
-- Drop the Qogir-dark folder into ~/.config/spicetify/Themes
+- Drop this folder into ~/.config/spicetify/Themes and rename it to Qogir-dark
 - Select the Qogir-dark theme with spicetify config using `spicetify config current_theme Qogir-dark`
 - Run `spicetify apply`
 - Profit
