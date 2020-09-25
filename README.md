@@ -1,4 +1,4 @@
-# Qogir-dark for spotify
+# Qogir-dark for Spotify
 
 Spotify theme for usage with the Qogir-dark GTK/KDE themes for [spicetify-cli](https://github.com/khanhas/spicetify-cli).
 
